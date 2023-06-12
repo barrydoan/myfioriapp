@@ -136,6 +136,9 @@
                         },
                         "tableSettings": {
                             "multiSelect": true
+                        },
+                        "dataLoadSettings": {
+                            "loadDataOnAppLaunch": "always"
                         }
                     }
                 },
